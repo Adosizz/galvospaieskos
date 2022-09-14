@@ -1,1 +1,6 @@
 "#beveik begalvis Nikas" 
+
+Nick = 'head'
+
+for head in Nick:
+    print(head.upper())
